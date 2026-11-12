@@ -1,6 +1,6 @@
-# Web-Based House Price Prediction Model
+# House Price Prediction Model
 
-A python web-based ML House Price Prediction Model. This project uses models such as <br>
+A Web-Based ML House Price Prediction Model using Python. This project uses models such as <br>
 1. `KNeighborsRegressor` <br>
 2. `LinearRegression` <br>
 3. `DecisionTreeRegressor` <br> 
