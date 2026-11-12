@@ -10,6 +10,10 @@ These models are available on the `scikit-learn` module, they are used in this p
 (`bedrooms`,	`bathrooms`, `sqft_living`, `sqft_lot`, `floors`, `waterfront`,  `view`, `condition`, `sqft_above`, `sqft_basement`, `yr_built`).
 <br><br>
 
+## 📂 Where is the data from?
+
+The data comes from <https://www.kaggle.com/datasets/shree1992/housedata>. <br><br>
+
 ## 📁 Project Structure
 
 The project consists of the following files:
